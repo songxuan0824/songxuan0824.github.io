@@ -4,7 +4,9 @@ Retrieved or prepared on 2026-10-24 for publications coauthored by Wenxuan Song.
 
 ## Co-evolution
 
-`coevolution-overview.svg` is a new conceptual illustration based on the [NeurIPS 2026 abstract](https://neurips.cc/virtual/2026/loc/sydney/poster/149378). It shows the one-to-many fine-tuning idea and complementary coverage, and is explicitly labeled as a concept illustration. It is not a figure reproduced from the paper. The three descendant boxes are illustrative, not a claim about a fixed population size.
+`coevolution-overview.png` reproduces Figure 2, “An overview of our proposed Co-Evolve,” from page 3 of the [paper PDF](https://openreview.net/pdf?id=qVAlPixuHg), available on the [OpenReview paper page](https://openreview.net/forum?id=qVAlPixuHg). The complete figure was rendered from the PDF at 8× scale (3176 × 1032 pixels), with surrounding page text and the caption excluded. The figure's content, colors, and layout are unchanged.
+
+Authors: Dapeng Jiang, Haichuan Tan, Wenxuan Song, Dianqiao Lei, Shenqi Zong, Yanyan Lan. The OpenReview paper page lists [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This original paper figure replaces the earlier conceptual illustration.
 
 ## IPIBench
 
