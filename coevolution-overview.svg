@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480" role="img" aria-labelledby="title desc">
+  <title id="title">Co-Evolve: one base model, complementary descendants</title>
+  <desc id="desc">Concept illustration based on the paper abstract. One base language model becomes a population of specialized descendants, optimized for complementary coverage. This is not a figure from the paper.</desc>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 Z" fill="#a18bb2"/></marker></defs>
+  <rect width="720" height="480" rx="22" fill="#faf8fd"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="360" y="53" fill="#633a82" font-size="31" font-weight="700">Co-Evolve</text>
+    <text x="360" y="85" fill="#74677e" font-size="17">One-to-many LLM fine-tuning</text>
+    <rect x="242" y="113" width="236" height="70" rx="13" fill="#633a82"/>
+    <text x="360" y="156" fill="white" font-size="23" font-weight="600">One base model</text>
+    <path d="M360 183 V213 H140 V248 M360 213 V248 M360 213 H580 V248" fill="none" stroke="#a18bb2" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M140 231 V248 M360 231 V248" fill="none" stroke="#a18bb2" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="45" y="260" width="190" height="70" rx="13" fill="#ede4f5" stroke="#d8c4e7"/>
+    <rect x="265" y="260" width="190" height="70" rx="13" fill="#e7edf8" stroke="#c5d1e6"/>
+    <rect x="485" y="260" width="190" height="70" rx="13" fill="#e6f0ec" stroke="#c4d9ce"/>
+    <text x="140" y="289" fill="#5d3b76" font-size="20" font-weight="600">Specialized</text><text x="140" y="314" fill="#5d3b76" font-size="18">descendant</text>
+    <text x="360" y="289" fill="#435a82" font-size="20" font-weight="600">Specialized</text><text x="360" y="314" fill="#435a82" font-size="18">descendant</text>
+    <text x="580" y="289" fill="#406655" font-size="20" font-weight="600">Specialized</text><text x="580" y="314" fill="#406655" font-size="18">descendant</text>
+    <path d="M140 343 V359 H580 V343 M360 359 V375" fill="none" stroke="#a18bb2" stroke-width="2"/>
+    <text x="360" y="404" fill="#633a82" font-size="22" font-weight="600">Complementary coverage</text>
+    <text x="360" y="446" fill="#8a7c94" font-size="14">Concept illustration · based on the paper abstract</text>
+  </g>
+</svg>
